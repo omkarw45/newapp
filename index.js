@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Welcome to karvenagar');
+  res.send('Welcome to rastapeth');
 
 });
 
